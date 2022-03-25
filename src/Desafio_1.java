@@ -1,4 +1,4 @@
-package desafio1;
+
 
 import java.util.HashMap;
 import java.util.Map;
@@ -22,7 +22,7 @@ public class Desafio_1 {
 
 		System.out.print("Digite uma palavra: ");
 
-		palavra = sc.next();
+		palavra = sc.next().toUpperCase();
 		sc.close();
 
 		for (int i = 0; i < palavra.length(); i++) {
