@@ -30,5 +30,4 @@ public class Desafio_2 {
 		Collections.sort(listNum);
 		System.out.println(listNum);
 	}
-
 }
