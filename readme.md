@@ -21,7 +21,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
     OpenJDK 64-bit Server VM build 11.0.14
 ```
 
-- [Git](https://github.com/)
 - [Java](https://www.java.com/pt-BR/)
 - [Spring Tools Suite](https://spring.io/tools) (caso queira rodar com Spring)
 
